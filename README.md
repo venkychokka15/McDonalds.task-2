@@ -1,2 +1,2 @@
 # McDonalds.task-2
-market segmentation analysis using McDonalds Dataset
+Market Segmentation analysis using McDonalds Dataset
